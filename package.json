@@ -1,0 +1,21 @@
+{
+  "name": "host-node-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/NdekoCode/node-test-hote.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NdekoCode/node-test-hote/issues"
+  },
+  "homepage": "https://github.com/NdekoCode/node-test-hote#readme"
+}
